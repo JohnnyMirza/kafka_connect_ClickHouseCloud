@@ -7,6 +7,8 @@ Edit the following **** in the scripts/startKafkaConnectComponents.sh.
 - Username
 - Password
 
+Start Instance
+-- docker-compose up -d
 
 check logs for errors
 -- docker-compose logs -f connect
